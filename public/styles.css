@@ -1,0 +1,170 @@
+
+
+/*****************   NAVBAR   ***************/
+.navbar-default {
+  background: none;
+  border: #004e64;
+  
+  
+}
+
+#topmenu{
+    right: -10px;
+   padding: 14px 16px;
+   color: #000000;
+}
+
+#topmenuAbout{
+    right: -10px;
+   padding: 5px 10px;
+   color: #000000;
+}
+
+.navbar-default .navbar-nav>li>a {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.5em;
+  
+    color: #000000;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+  /*border: 2px solid white; */
+  /*border-radius: 2px; */
+  background-color: #333;
+      color: #FFFFFF;
+
+}
+
+.navbar-default .navbar-brand {
+  color: #0E74E8;
+  font-size: 1.5em;
+  font-family: 'Pacifico', cursive;
+
+}
+
+.btn-default:hover{
+  color: #004e64;
+  background-color: #d1faff;
+}
+
+.navbar-default .navbar-brand:hover{
+  color: #30bced;
+}
+
+
+/*Hamburger thing*/
+.navbar-default .navbar-toggle .icon-bar{ 
+  background-color: #004e64;
+
+}
+
+#content { 
+  text-align: center; 
+  padding-top: 40%;
+  padding-bottom: 40%;
+  color: #000000;
+}
+#about{
+  background-color: #FFFFFF;
+}
+
+.news{
+
+  background: url(recycling-wallpaper.jpeg) no-repeat center center fixed;
+  position: relative;
+
+  padding-top: 50%;
+  color: #FFFFFF;
+}
+
+hr{
+   height: 12px;
+   border-top: 3px solid white ;
+   width: 90%;
+}
+
+h3{
+  color: white;
+  letter-spacing: 3;
+}
+
+
+
+
+/*   ********squad page styles********* */
+
+#AboutJumbo{
+  margin-left: 2%;
+  margin-right: 2%;
+  background-image: url("Montreal.jpg");
+  background-size: 100% 100%;
+ 
+
+}
+#TheTeam{
+    font-family: Raleway;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 40px;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 5px solid #333;
+    padding-top: 10px;
+    padding-bottom: 30px;
+     text-align: center; 
+     
+}
+
+#JoinButton{
+  background-image: linear-gradient(282deg,#00aeda,#006ee0);
+      padding-left: 40px;
+    padding-right: 40px;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.8em;
+  margin-top: 35%
+}
+
+#CompanyInfo{
+  font-family: 'Merriweather', serif;
+   font-size: 1.2em;
+   font-weight: 300;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.profilePics{
+
+margin-left: 20%;
+  
+
+
+    /*margin: 1.66%; */ 
+}
+
+img{
+    width: 22%;
+    float: left;
+    margin: 1.66%; 
+}
+
+.container.custom-container {
+
+  background-color: #f7f7f7;
+  
+}
+
+
+/*th{
+  border:  2px solid white;
+  padding-right: 20%;
+    padding-left: 20%;
+  
+}
+
+*/
+
+
+
