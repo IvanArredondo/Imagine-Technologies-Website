@@ -27,6 +27,9 @@ app.get("/home.html", function(req, res){
     res.render("home.ejs");
 });
 
+app.get("/learn.html", function(req, res){
+    res.render("learn.ejs");
+});
 
 app.get("/bye", function(req, res){
     res.send("thanks for visiting");
